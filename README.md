@@ -1,1 +1,1 @@
-# coffeemaker_TS_project
+## Time Series Analysis and Forecasting of Coffeemaker Search Interest
